@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>{{ page.title }}</title>
-        <!--<meta name="viewport" content="width=768px, initial-scale=1.0">-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
@@ -54,11 +54,20 @@
     
             ul {
                 list-style-type: square;
-                margin-left:17px;
+                _margin-left:17px;
+                padding-left: 20px;
             }    
             
             li {
                 line-height:1.5em;
+            }
+            
+            table {
+                width: 100%;
+            }
+            
+            table td {
+                _width: 33%;
             }
         </style>
     </head>
@@ -67,11 +76,12 @@
 
         <div class="container-fluid" style="max-width:700px;margin:auto;padding:0;">
         
-            <ul class="breadcrumb" style="margin: 0 -15px;padding-left:15px;padding-right:10px;border-top-left-radius:0;border-top-right-radius:0;">
-                <li><a href="app-index.html">Guide</a> <span class="divider"></span></li>
+            <ul class="breadcrumb" style="margin: 0 -15px;padding-left:15px;padding-right:15px;border-top-left-radius:0;border-top-right-radius:0;">
+                <li><a href="app-index.html">Home</a> <span class="divider"></span></li>
+                <li style="_float:right"><a href="everything.html">Index</a> <span class="divider"></span></li>
                 <!--<li><a href="#">Gameplay</a> <span class="divider"></span></li>-->
             </ul>
-        
+                    
             <h3>{{page.title}}</h3>
         
             {{content|raw}}

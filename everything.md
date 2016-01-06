@@ -3,21 +3,29 @@ layout: kb
 title: 
 ---
 
-Jump to [buildings](#buildings), [materials](#materials)
+Jump to [buildings](#buildings), [materials](#materials).
 
-#### Buildings
 
-[Ashery](ashery.html)
+### Main Concepts
 
-[Farm Plot](farm-plot.html)
+| [Map View](mapview.html) | [Designations](designations.html) | |
 
-[Trade Depot](trade-depot.html)
+| [Nobles](nobles.html) | [Quality](quality.html) | |
 
-[Workshops](workshops.html)
 
-#### Materials
+### Positions
 
-[Potash](potash.html)
+| [Manager](manager.html) | [Bookkeeper](bookkeeper.html) | |
 
-[Soap](soap.html)
+
+### Buildings
+
+| [Ashery](ashery.html) | [Farm Plot](farm-plot.html) | [Trade Depot](trade-depot.html)
+
+| [Workshops](workshops.html) | |
+
+
+### Materials
+
+| [Potash](potash.html) | [Soap](soap.html) | |
 
