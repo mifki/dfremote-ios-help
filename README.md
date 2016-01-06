@@ -1,4 +1,4 @@
-In-App Help for DF Remote iOS App
+In-App help for [DF Remote iOS App](http://mifki.com/df)
 
 Based on [The Dwarf Fortress Wiki](http://dwarffortresswiki.org).
 
