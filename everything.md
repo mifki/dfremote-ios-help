@@ -3,29 +3,39 @@ layout: kb
 title: 
 ---
 
-Jump to [buildings](#buildings), [materials](#materials).
+Jump to: [buildings](#buildings), [materials](#materials)
 
 
 ### Main Concepts
 
-| [Map View](mapview.html) | [Designations](designations.html) | |
+<div class="table_full"></div>
 
-| [Nobles](nobles.html) | [Quality](quality.html) | |
-
+| [Map View](mapview.html) | [Designations](designations.html) | [Labors](labors.html) |
+| [Civilizations](civilizations.html) | [Strange Mood](strange-mood.html) |
+| [Nobles](nobles.html) | [Quality](quality.html) | [Points](points.html) |
+| [Smoothing](smoothing.html) | [Engraving](engraving.html) |
 
 ### Positions
 
-| [Manager](manager.html) | [Bookkeeper](bookkeeper.html) | |
+<div class="table_full"></div>
+
+| [Bookkeeper](bookkeeper.html) | [Manager](manager.html) | |
 
 
 ### Buildings
 
-| [Ashery](ashery.html) | [Farm Plot](farm-plot.html) | [Trade Depot](trade-depot.html)
+<div class="table_full"></div>
 
+| [Ashery](ashery.html) | |
+| [Bowyer's Workshop](bowyers-workshop.html) | [Butcher's Shop](butchers-shop.html) | [Carpenter's Workshop](carpenters-workshop.html)
+| [Door](door.html) | [Farm Plot](farm-plot.html)
+| [Mason's Workshop](masons-workshop.html) | [Trade Depot](trade-depot.html) |
 | [Workshops](workshops.html) | |
 
 
 ### Materials
 
-| [Potash](potash.html) | [Soap](soap.html) | |
+<div class="table_full"></div>
+
+[Block](block.html) | [Potash](potash.html) | [Soap](soap.html) |
 

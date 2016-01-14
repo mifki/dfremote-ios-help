@@ -2,7 +2,7 @@
     "AddServerViewController":null,
     "AlertsListViewController":"alerts",
     "AlertViewController":"alerts",
-    "AnimalsViewController":null,
+    "AnimalsViewController":"animals",
     "AnnouncementsTopViewController":null,
     "AnnouncementsViewController":null,
     "BookkeeperSettingsViewController":"bookkeeper",
@@ -12,10 +12,16 @@
 
     "BuildingViewController":null,
     "BuildingViewController/Ashery":"ashery",
+    "BuildingViewController/Bowyer's Workshop":"bowyers-workshop",
+    "BuildingViewController/Butcher's Shop":"butchers-shop",
+    "BuildingViewController/Carpenter's Workshop":"carpenters-workshop",
     "BuildingViewController/Farm Plot":"farm-plot",
     "BuildingViewController/Kitchen":"kitchen",
+    "BuildingViewController/Mason's Workshop":"masons-workshop",
+    "BuildingViewController/Trade Depot":"trade-depot",
 
     "BuildOptionsViewController":null,
+    
     "BurrowCitizensViewController":null,
     "BurrowOptionsViewController":null,
 
@@ -31,15 +37,18 @@
     "DwarfLaborsViewController2":null,
     "FarmCropsViewController":null,
     "GameViewController":"mapview",
+    "HealthReportViewController":"health-report",
     "ImportRequestsCatsViewController":null,
     "ImportRequestsViewController":null,
     "ItemListViewController":null,
     "ItemViewController":"itemview",
-    "KitchenPrefsViewController":null,
-    "LaborDwarfTableViewCell":null,
-    "LaborDwarvesViewController":null,
-    "LaborsTopViewController":null,
-    "LaborsViewController":null,
+    "KitchenPrefsViewController":"kitchen-prefs",
+
+    "LaborDwarfTableViewCell":"labors",
+    "LaborDwarvesViewController/one":"labor-dwarves",
+    "LaborsTopViewController":"labors",
+    "LaborsViewController":"labors",
+
     "LinkReqsViewController":null,
     "LinkTargetsViewController":null,
     "LocationFinderViewController":null,
@@ -47,6 +56,7 @@
     "ManagerOrdersViewController":"manager",
     "MeetingViewController":null,
  
+    "MenuViewController":"menuview",
     "MenuViewController/Designations":"designations",
     "MenuViewController/Buildings":"buildings",
 
@@ -57,30 +67,41 @@
     "NoblesViewController":"nobles",
     "OrdersViewController":null,
     "OverviewViewController2":null,
+    
+    "PointsOptionsViewController":"points",
+    
     "ReclaimSiteViewController":"reclaim",
     "RecommendLandHolderViewController":null,
     "ReportGroupsViewController":null,
     "ServerListViewController":null,
     "ServerViewController":null,
+
     "SquadsAttackListViewController":null,
-    "SquadSetAlertViewController":null,
-    "SquadsListViewController":null,
-    "SquadsViewController":null,
+    "SquadSetAlertViewController":"alerts",
+    "SquadsListViewController":"squads",
+    "SquadsViewController":"squads",
+
     "StatusMasterViewController":null,
     "StockpileSectionTableViewCell":null,
     "StockpileSettingsViewController":null,
     "StocksCategoriesViewController":null,
-    "StocksViewController":"stocks",
+    "StocksViewController":null,
     "StonePrefsViewController":null,
     "StrikeTheEarhViewController":null,
-    "SystemMenuViewController":"system",
+    
+    "SystemMenuViewController":null,
+    
     "TrainerSelectorViewController":null,
+    
+    "UniformViewController":"uniforms",
+    "UniformsListViewController":"uniforms",
+    
     "UnitCustomizeViewController":null,
     "UnitHealthViewController":null,
     "UnitInventoryViewController":null,
     "UnitRelationshipsViewController":null,
     "UnitSkillsViewController":null,
-    "UnitsListViewController":null,
+    "UnitsListViewController":"unitlist",
     "UnitThoughtsViewController":null,
     "UnitViewController":null,
     "WorldInfoViewController":null,

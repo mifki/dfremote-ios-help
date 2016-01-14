@@ -9,12 +9,12 @@ title: Notes
 
 ### Major Missing Stuff
 
-Routes, hauling, workshop profiles, stockpile-workshop links.
+Routes, hauling, workshop profiles, stockpile-workshop links
         
 ### Other Known Issues
         
-* Only two top levels of settings available for stockpiles.
-* Designation priorities and automining are not supported.
-* Embarks larger than 5 embark tiles are not supported.
-* No creature graphics.
-* Other minor things here and there that should not significantly affect gameplay.
+* Only top two levels of settings available for stockpiles
+* Designation priorities and automining are not supported
+* Embarks larger than 5 embark tiles are not supported
+* No creature graphics
+* Other minor things here and there that should not significantly affect gameplay
