@@ -3,6 +3,12 @@ layout: kb
 title: Getting Started
 ---
 
+<!-- ---
+
+**Please read [notes](notes.html) for information about currently known bugs and workarounds.**
+
+--- -->
+
 First, please visit `mifki.com/df/setup` on your desktop for server installation instructions.
 
 Then read [important notes](notes.html) regarding connection and differences with the original game.

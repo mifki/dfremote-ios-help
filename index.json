@@ -17,6 +17,7 @@
     "BuildingViewController/Carpenter's Workshop":"carpenters-workshop",
     "BuildingViewController/Farm Plot":"farm-plot",
     "BuildingViewController/Kitchen":"kitchen",
+    "BuildingViewController/Lever":"lever",
     "BuildingViewController/Mason's Workshop":"masons-workshop",
     "BuildingViewController/Trade Depot":"trade-depot",
 
@@ -104,7 +105,11 @@
     "UnitsListViewController":"unitlist",
     "UnitThoughtsViewController":null,
     "UnitViewController":null,
+    
     "WorldInfoViewController":null,
+    
+    "WorkshopProfileViewController":null,
+    
     "ZoneInformationViewController":null,
     "ZoneViewController":null
 }

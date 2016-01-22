@@ -5,7 +5,13 @@ title: Designations
 
 Designations provide the means to mark tiles with various designations including mining, wood cutting, plant gathering, stone detailing as well as removing constructions, controlling traffic and others.
 
-To cancel a designation use `Remove Designations` designation.
+To cancel a designation, use `Remove Designations` designation.
+
+##### See Also
+
+[Smooth Stone](smoothing.html),
+[Engrave Stone](engraving.html),
+[Carve Fortifications](fortification.html)
 
 <!-- [Labor](labors.html) requirements:
 

@@ -3,7 +3,7 @@ layout: kb
 title: Buildings
 ---
 
-Buildings include furniture, [workshops](workshops.html) and furnaces, constructions, traps, levers and other objects. All buildings (except for Farm Plot) require raw materials or a corresponding items in order to be constructed. Some of them also require size and sometimes other options to be choosen at build time.
+Buildings include furniture, [workshops](workshops.html) and furnaces, [constructions](constructions.html), traps, [levers](lever.html) and other objects. All buildings (except for Farm Plot) require raw materials or a corresponding items in order to be constructed. Some of them also require size and sometimes other options to be choosen at build time.
 
 #### Actions
 

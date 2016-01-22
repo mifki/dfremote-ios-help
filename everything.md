@@ -28,7 +28,7 @@ Jump to: [buildings](#buildings), [materials](#materials)
 
 | [Ashery](ashery.html) | |
 | [Bowyer's Workshop](bowyers-workshop.html) | [Butcher's Shop](butchers-shop.html) | [Carpenter's Workshop](carpenters-workshop.html)
-| [Door](door.html) | [Farm Plot](farm-plot.html)
+| [Door](door.html) | [Farm Plot](farm-plot.html) | [Lever](lever.html)
 | [Mason's Workshop](masons-workshop.html) | [Trade Depot](trade-depot.html) |
 | [Workshops](workshops.html) | |
 
