@@ -13,11 +13,10 @@ Due to a delay caused by the App Store review process, the current version has t
 
 ### Major Missing Stuff
 
-Routes, hauling, workshop profiles, stockpile-workshop links. Embark site location chooser is limited.
+Routes, hauling, stockpile-workshop links. Embark site location chooser is limited.
         
 ### Other
         
-* Only top two levels of settings available for stockpiles
 * Designation priorities and automining are not supported
 * Embarks larger than 5 embark tiles are not supported
 * No creature graphics

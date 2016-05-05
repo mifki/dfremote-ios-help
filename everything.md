@@ -14,6 +14,7 @@ Jump to: [buildings](#buildings), [materials](#materials)
 | [Civilizations](civilizations.html) | [Strange Mood](strange-mood.html) |
 | [Nobles](nobles.html) | [Quality](quality.html) | [Points](points.html) |
 | [Smoothing](smoothing.html) | [Engraving](engraving.html) |
+| [Dwarven Calendar](calendar.html)
 
 ### Positions
 
