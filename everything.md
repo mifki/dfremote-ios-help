@@ -30,13 +30,15 @@ Jump to: [buildings](#buildings), [materials](#materials)
 | [Ashery](ashery.html) | |
 | [Bowyer's Workshop](bowyers-workshop.html) | [Butcher's Shop](butchers-shop.html) | [Carpenter's Workshop](carpenters-workshop.html)
 | [Door](door.html) | [Farm Plot](farm-plot.html) | [Lever](lever.html)
+| [Kiln](kiln.html) |
 | [Mason's Workshop](masons-workshop.html) | [Trade Depot](trade-depot.html) |
-| [Workshops](workshops.html) | |
+| [Workshops](workshops.html) | [Furnaces](furnaces.html) |
 
 
 ### Materials
 
 <div class="table_full"></div>
 
-[Block](block.html) | [Potash](potash.html) | [Soap](soap.html) |
+[Block](block.html) | [Potash](potash.html) | [Pearlash](pearlash.html)
+[Soap](soap.html) |
 
