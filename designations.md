@@ -65,7 +65,7 @@ Wood cutting: Chop Down Trees
 ** Hide Items/Buildings - Mark area of objects to be Hide Items or Buildings|hidden.
 ** Unhide Items/Buildings - Remove Hide Items or Buildings|hide marking from area.
 
-* Set Traffic|Traffic Areas ({{K|o}}) - Traffic area values determine where dwarves will travel.  Large values for cost mean that dwarves will avoid that area if at all possible; smaller costs mean they will prefer that path even if it is longer than “normal”.
+* Set Traffic|Traffic Areas (K|o) - Traffic area values determine where dwarves will travel.  Large values for cost mean that dwarves will avoid that area if at all possible; smaller costs mean they will prefer that path even if it is longer than “normal”.
 ** High Traffic Area - Mark areas with the “cost” listed in “High Traffic Cost”
 ** Normal Traffic Area - Mark areas with the “cost” listed in “Normal Traffic Cost”
 ** Low Traffic Area - Mark areas with the “cost” listed in “Low Traffic Cost”

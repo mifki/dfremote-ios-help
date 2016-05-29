@@ -7,6 +7,8 @@ Butcher's ship is used to slaughter tame animals, or to butcher the corpses or s
 
 A butchered animal results into various items with different uses:
 
+ | |
+--- | --- | ---
 Meat / prepared organs | Eaten raw or cooked
 Fat | Cooked to tallow
 Skulls | Crafting skull totems

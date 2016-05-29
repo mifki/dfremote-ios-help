@@ -16,6 +16,7 @@ Dyeing is considered a decoration and has quality levels. If thread is dyed, and
 Note that destroying `☼masterwork☼` items (e.g. by melting) may cause the dwarf who made it to get unhappy thoughts or throw tantrums.
 
 **Symbol** | **Meaning** | **Value** | **Sharpness** | **Weapon\***
+--- | --- | ---
 Item Name | — | 1x | 50% | 1x
 -Item Name- |Well-crafted | 2x | 60% | 1.2x		
 +Item Name+	| Finely-crafted | 3x | 70% | 1.4x		

@@ -7,10 +7,12 @@ A dwarven year consists of 12 months, each exactly 28 days long. Three months ma
 
 Months are named after kinds of stones, ore, gems and wood as follows (also showing which caravan arrives each season):
 
-|**Spring**| Granite, Slate, Felsite | Elven
-|**Summer**| Hematite, Malachite, Galena | Human
-|**Autumn**| Limestone, Sandstone, Timber | Dwarven
-|**Winter**| Moonstone, Opal, Obsidian | None
+ |  | 
+--- | --- | ---
+**Spring** | Granite, Slate, Felsite | Elven
+**Summer** | Hematite, Malachite, Galena | Human
+**Autumn** | Limestone, Sandstone, Timber | Dwarven
+**Winter** | Moonstone, Opal, Obsidian | None
 
 <br>
 There are also full moons on certain fixed dates every year. Werebeasts will transform into their werebeast form on these days:
