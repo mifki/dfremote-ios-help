@@ -17,7 +17,10 @@ Routes, hauling, stockpile-workshop links. Embark site location chooser is limit
         
 ### Other
         
-* Designation priorities and automining are not supported
+* Designation priorities are not supported
+* [0.43] Job image specification is not fully supported</li>
+* [0.43] Manager order conditions, per-workshop manager orders are not supported</li>
+* [0.43] Engraving designation image specification is not supported</li>
 * Embarks larger than 5 embark tiles are not supported
 * No creature graphics
 * Other minor things here and there that should not significantly affect gameplay
