@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: 
+title: Notes
 ---
 
 <!-- ### Known Application Issues

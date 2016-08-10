@@ -24,4 +24,4 @@ Doors can also be connected to levers or pressure plates to open on command. Doo
 * Any item on the same tile as a door will cause the door to be propped open, which makes it impossible to lock and will allow fluids in. Such will also jam mechanically linked doors, needing to be cleared out and the lever or pressure plate triggered again to shut.
 * Doors destroy any fluid on their tile when they close.
 * If invaders move past a door, they will take control of the door and you will be unable to issue it qommands. If you can successfully move a squad through a door, it will be retaken, but the door will be returned in an unforbidden state. A door set to be tightly-closed will remain tightly closed when you retake it.
-* Artifact doors are indestructible by building desctroyers.
+* Artifact doors are indestructible by building destroyers.

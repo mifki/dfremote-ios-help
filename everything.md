@@ -3,7 +3,7 @@ layout: kb
 title: 
 ---
 
-Jump to: [buildings](#buildings), [materials](#materials)
+Jump to: [buildings](#Buildings), [materials](#Materials)
 
 
 ### Main Concepts
