@@ -125,7 +125,7 @@ layout: false
             <div id="results" style="position:absolute;top:41px;bottom:0;left:0;right:0;background:white;display:none;">
                 <h3></h3>
                 <ul id="results_list" class="list-inline" style="margin-left:-15px;margin-top:-10px;"></ul>
-                <div>search by <img src="assets/Algolia_logo_bg-white.png"></div>
+                <div>search by <img src="assets/Algolia_logo_bg-white.png" height="20"></div>
             </div>
                     
             <h3><%=page.title%></h3>
@@ -136,7 +136,7 @@ layout: false
         <script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
         <script src="https://cdn.jsdelivr.net/zepto/1.1.6/zepto.min.js"></script>
         <script>
-            var client = algoliasearch("S5XFNI6E3T", "f275d53119a93e2d3d74be1fb0bafece")
+            var client = algoliasearch("S5XFNI6E3T", "f275d53119a93e2d3d74be1fb0bafece", { protocol:'https:' });
             var index = client.initIndex('site');
             
             $('#search-clear').on('click', function() {
@@ -149,6 +149,7 @@ layout: false
             
             $('#search-input').on('keyup', function(e) {
                 if (e.keyCode == 13) {
+                    //TODO: search in case search as you type failed
                     $('#search-input').blur();
                     return;
                 }
@@ -162,6 +163,8 @@ layout: false
                     $('#results').hide();
                     return;
                 }
+                
+                //TODO: don't search if text not changed
             
                 index.search(this.value, { hitsPerPage: 10, attributesToSnippet:[], attributesToRetrieve:['path'] }).then(function(answer) {
                     console.log(answer.hits);
@@ -178,6 +181,8 @@ layout: false
                 
                             var $r = $('<li><a href="'+url+'">'+h._highlightResult.title.value+'</a></li>');
                             $r.appendTo($res);
+                            
+                            //TODO: hide search if clicked a link for the current page
                         });
                     } else {
                         $res.html('<li>No results</li>');
