@@ -3,6 +3,8 @@ layout: kb
 title: 
 ---
 
+This list is somewhat incomplete, please also use search.
+
 Jump to: [buildings](#Buildings), [materials](#Materials)
 
 

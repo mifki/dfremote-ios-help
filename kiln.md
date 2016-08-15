@@ -9,9 +9,11 @@ All ceramic products require fuel and use the Potter skill, except for Collect C
 
 Glazing of earthenware also happens here, requiring either ash or cassiterite.
 
-<!-- Calcium carbonate stone may be processed into quicklime at a kiln.v0.42.01 -->
+Calcium carbonate stone may be processed into [quicklime](quicklime.html) at a kiln (requires Smelting labor).
 
 Building a kiln requires a dwarf with the architecture labor enabled, after which construction will be completed by a mason or metalsmith, depending on the material used.
 
+See also: [Magma kiln](magma-kiln.html)
+
 ---
-Labors: Furnace Operating, Pottery, Glazing
+Labors: Furnace Operating, Pottery, Glazing, Smelting

@@ -1,6 +1,6 @@
 ---
 layout: kb
-title: Magma-safe Materials
+title: Magma-safe materials
 ---
 
 Magma-safe materials are those which will not melt, burn, evaporate, or otherwise take damage when in close contact with magma. Most frequently, this comes into play when using floodgates operated by mechanisms, or when operating a magma pump. In the game, magma temperature is exactly 12000 °U.

@@ -5,7 +5,7 @@ title: Manager
 
 The manager is a [noble](nobles.html) that allows players to create and queue production orders. You can rapidly dispatch any number of jobs from the manager screen, without having to add tasks to individual workshops.
 
-<!--The manager also lets a player set up profiles for workshops.-->
+The manager also lets a player set up [profiles for workshops](workshop-profile.html).
 
 A manager only performs his duties in his office, so it is absolutely necessary to [assign](assign-room.html) one. Since only a meager office is required, a single chair in the dining room will suffice.
 

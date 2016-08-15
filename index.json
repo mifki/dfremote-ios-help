@@ -17,7 +17,13 @@
     "BuildingViewController/Carpenter's Workshop":"carpenters-workshop",
     "BuildingViewController/Farm Plot":"farm-plot",
     "BuildingViewController/Kitchen":"kitchen",
+    "BuildingViewController/Kiln":"kiln",
+    "BuildingViewController/Metalsmith's Forge":"metalsmiths-forge",
+    "BuildingViewController/Magma Forge":"magma-forge",
+    "BuildingViewController/Magma Kiln":"magma-kiln",
     "BuildingViewController/Lever":"lever",
+    "BuildingViewController/Smelter":"smelter",
+    "BuildingViewController/Magma Smelter":"magma-smelter",
     "BuildingViewController/Mason's Workshop":"masons-workshop",
     "BuildingViewController/Trade Depot":"trade-depot",
 
@@ -66,7 +72,7 @@
     "NewWorldViewController":null,
     "NobleCandidatesViewController":null,
     "NoblesViewController":"nobles",
-    "OrdersViewController":null,
+    "OrdersViewController":"standing-orders",
     "OverviewViewController2":null,
     
     "PointsOptionsViewController":"points",
@@ -103,12 +109,12 @@
     "UnitRelationshipsViewController":null,
     "UnitSkillsViewController":null,
     "UnitsListViewController":"unitlist",
-    "UnitThoughtsViewController":null,
+    "UnitThoughtsViewController":"thoughts-preferences",
     "UnitViewController":null,
     
     "WorldInfoViewController":null,
     
-    "WorkshopProfileViewController":null,
+    "WorkshopProfileViewController":"workshop-profile",
     
     "ZoneInformationViewController":null,
     "ZoneViewController":null
