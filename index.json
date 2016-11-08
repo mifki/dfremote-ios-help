@@ -6,7 +6,7 @@
     "AnnouncementsTopViewController":null,
     "AnnouncementsViewController":null,
     "BookkeeperSettingsViewController":"bookkeeper",
-    "BuildingAddJobViewController":null,
+    "BuildingAddJobViewController":"addjob",
     "BuildingAssignViewController":null,
     "BuildingReqsViewController":"building-reqs",
 
@@ -75,6 +75,7 @@
     "OrdersViewController":"standing-orders",
     "OverviewViewController2":null,
     
+    "PetitionsListViewController":"petitions",
     "PointsOptionsViewController":"points",
     
     "ReclaimSiteViewController":"reclaim",
@@ -106,7 +107,7 @@
     "UnitCustomizeViewController":null,
     "UnitHealthViewController":null,
     "UnitInventoryViewController":null,
-    "UnitRelationshipsViewController":null,
+    "UnitRelationshipsViewController":"relationships",
     "UnitSkillsViewController":null,
     "UnitsListViewController":"unitlist",
     "UnitThoughtsViewController":"thoughts-preferences",
